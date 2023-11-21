@@ -4,6 +4,7 @@
 Pueden contactarme por: 
 
 correo: marianoaguirre14@gmail.com
+
 linkedin: https://www.linkedin.com/in/mariano-croce/
 
 
