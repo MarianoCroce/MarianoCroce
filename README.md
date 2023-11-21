@@ -1,6 +1,10 @@
 # 💫 About Me:
 <br>🚀💻 ¡Saludos, exploradores de código! Soy Mariano, un viajero intrépido por el universo digital.<br><br>Descubrí mi amor por la programación en mi búsqueda interminable de desafíos y mi fascinación por convertir ideas en realidad a través del código. Siempre en sintonía con las últimas tendencias tecnológicas, cada línea de código es un paso más hacia el próximo horizonte de conocimiento. 🌌🚀<br><br>🎮 En el vasto paisaje de los bits y bytes, encuentro la emoción resolviendo enigmas de programación y conquistando estrategias en juegos estratégicos. Cuando no estoy inmerso en líneas de código, me deslizo por el asfalto en mis rollers, buscando el equilibrio perfecto entre la velocidad y la libertad.<br><br>🎸 Además de ser un alquimista del código, también soy un melódico mago de la guitarra. Las notas y los acordes se fusionan para crear mi propia sinfonía en el mundo analógico, un descanso bienvenido del frenesí digital.<br><br>🎧 Como DJ en ciernes, mezclo beats y ritmos para crear experiencias auditivas inolvidables. La música es mi lenguaje universal, y cada sesión es un viaje que comparto con aquellos que buscan vibraciones positivas.<br><br>🌍 ¡Terminé mi formación como desarrollador full stack en HENRY y ahora estoy enfocado en conseguir mi primer empleo en el mundo IT! La programación, para mí, no es solo código; es una herramienta que mejora la vida. Si buscas un compañero para un desafío de código, una mezcla musical única o simplemente alguien con quien compartir experiencias, ¡estoy aquí para ello! 🌈✨
 
+Pueden contactarme por: 
+correo: marianoaguirre14@gmail.com
+linkedin: https://www.linkedin.com/in/mariano-croce/
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MarianoCroceDj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariano-croce) 
